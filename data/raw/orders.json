@@ -1,0 +1,92 @@
+[
+  {
+    "order_id": "ORD-1010",
+    "customer_email": "helen.s@example.com",
+    "product_sku": "SKU-3345",
+    "quantity": 2,
+    "unit_price": "15.00",
+    "order_date": "2026-01-09T00:00:00",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-1015",
+    "customer_email": "nina.o@example.com",
+    "product_sku": "SKU-6621",
+    "quantity": 3,
+    "unit_price": "18.75",
+    "order_date": "2026-01-12",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-1016",
+    "customer_email": "oscar.l@example.com",
+    "product_sku": "",
+    "quantity": 1,
+    "unit_price": "40.00",
+    "order_date": "2026-01-12",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD-1017",
+    "customer_email": "penny.g@example.com",
+    "product_sku": "SKU-7733",
+    "quantity": 2,
+    "unit_price": "-8.25",
+    "order_date": "2026-01-13",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-1018",
+    "customer_email": "quinn.f@example.com",
+    "product_sku": "SKU-2201",
+    "quantity": "three",
+    "unit_price": "45.00",
+    "order_date": "2026-01-13",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-1019",
+    "customer_email": "rita.e@example.com",
+    "product_sku": "SKU-8899",
+    "quantity": 1,
+    "unit_price": "22.00",
+    "order_date": "2026-01-14",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD-1019",
+    "customer_email": "rita.e@example.com",
+    "product_sku": "SKU-8899",
+    "quantity": 2,
+    "unit_price": "22.00",
+    "order_date": "2026-01-15T09:30:00",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD-1021",
+    "customer_email": "sam-at-example.com",
+    "product_sku": "SKU-4471",
+    "quantity": 1,
+    "unit_price": "19.99",
+    "order_date": "2026-01-15",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-1022",
+    "customer_email": "tara.d@example.com",
+    "product_sku": "SKU-9902",
+    "quantity": 2,
+    "unit_price": "$29.99",
+    "order_date": "01/16/2026",
+    "status": "completed"
+  },
+  {
+    "order_id": null,
+    "customer_email": "unknown.c@example.com",
+    "product_sku": "SKU-1122",
+    "quantity": 1,
+    "unit_price": "7.49",
+    "order_date": "2026-01-16",
+    "status": "pending"
+  }
+]

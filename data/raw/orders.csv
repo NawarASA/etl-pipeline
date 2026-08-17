@@ -1,0 +1,16 @@
+order_id,customer_email,product_sku,quantity,unit_price,order_date,status
+ORD-1001,alice.j@example.com,SKU-4471,2,19.99,2026-01-05,completed
+ORD-1002,bob.k@example.com,SKU-2201,1,$45.00,01/06/2026,completed
+ORD-1003,not-an-email,SKU-1188,3,12.50,2026-01-06,pending
+ORD-1004,carla.m@example.com,SKU-7733,-2,8.25,2026-01-07,completed
+ORD-1005,dave.w@example.com,SKU-9902,1,29.99,2026-01-07,shipped
+ORD-1006,,SKU-3345,4,15.00,2026-01-08,pending
+ORD-1007,evan.p@example.com,SKU-5510,2,abc,2026-01-08,completed
+ORD-1008,fiona.r@example.com,SKU-6688,1,99.99,not-a-date,completed
+ORD-1009,george.h@example.com,SKU-1122,5,7.49,2026-01-09,completed
+ORD-1010,helen.s@example.com,SKU-3345,2,15.00,2026-01-09,completed
+ORD-1011,ivan.t@example.com,SKU-4471,1,19.99,2026/01/10,cancelled
+ORD-1012,julia.v@example.com,SKU-8899,3,22.00,2026-01-10,completed
+ORD-1013,karl.b@example.com,SKU-2201,2,$45.00,2026-01-11,completed
+ORD-1014,laura.n@example.com,SKU-9902,,29.99,2026-01-11,pending
+ORD-1020,maya.q@example.com,SKU-1188,1,12.50,2026-01-12,completed
